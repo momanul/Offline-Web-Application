@@ -1,0 +1,167 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+#textAlign{
+    margin-top: 50px;
+}
+.table {
+    text-align: left;
+}
+.table td{
+    border: 0px;
+    padding: 0px;
+}
+#operationTable tr{
+    border: 10px solid white;
+}
+header {
+    /*margin-top: 20px;*/
+    text-align: center;
+}
+#textFile{
+    overflow:auto;
+}
+#userForm tr {
+    border: 10px solid white;
+}
+hr {
+    width: 600px;
+    margin: auto;
+    border: 2px solid black;
+}
+#headerDiv {
+    background: #442;
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+}
+img, #uploadImg {
+    width: 80px;
+    height: 80px;
+}
+    #uploadImg{
+        float: left;
+    }
+
+    #logo img {
+        width: 60px;
+        height: 60px;
+        color: white;
+        float: left;
+    }
+#text {
+    color: white;
+    padding-left: 10px;
+    margin-top:20px;
+}
+#text h1 {
+    color: white;
+}
+#container{
+    position: absolute;
+    top: 0px;
+    padding: 0px;
+    margin-top: 0px;
+}
+#homeLogo {
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+}
+#contact h6 {
+    color: white;
+}
+
+#inputDiv {
+    margin-left: 100px;
+    width: 500px;
+    float: left;
+    height: 290px;
+    margin-top: 50px;
+}
+caption {
+    font-size: 20px;
+}
+h5{
+    text-align: center;
+}
+button {
+    width: 120px;
+    padding: 5px;
+    border: 1px solid #14B2A1;
+    border-radius: 40px;
+    background: #14B2A1;
+    color: white;
+}
+#postcode, #district {
+    width: 80px;
+}
+#headerContent{
+    margin-top: 50px;
+}
+#district {
+    width: 83px;
+}
+#division {
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#updateBtn {
+    border: 1px solid #F28705;
+    background: #F28705;
+}
+#saveUpdateBtn {
+    border: 1px solid #F28705;
+    background: #F28705;
+}
+#deleteBtn {
+    border: 1px solid #D92323;
+    background: #D92323;
+}
+
+#inputDiv td, #deleteDiv td {
+    border: 5px solid white;
+}
+
+#deleteDiv {
+    margin-left: 150px;
+    width: 500px;
+    float: left;
+    height: 290px;
+    margin-top: 50px;
+}
+
+#dataTable th, #dataTable td {
+    width: 250px;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+}
+#dataTable tr:nth-child(odd) {
+    background: #F0F0F0;
+}
+
+ input {
+    padding: 5px;
+    border-radius: 5px;
+    width: 270px;
+    border: 1px solid #000000;
+}
+
+#dataDiv {
+    width: 700px;
+    margin: auto;
+    margin-top: 0px;
+    position: absolute;
+    top: 500px;
+    left: 300px;
+}
+label{
+    color: red;
+}
+input{
+    padding-left: 8px;
+}
